@@ -5,9 +5,9 @@ Welcome to my personal portfolio! I’m a Junior Software Developer.
 I have experience in web / cloud development.
 
 ## Skills
-- Cloud Development
-- UI / UX
-- Desktop Applications with C#
+- Cloud Development with Angular and React
+- UI / UX Development
+- Desktop Applications with C# and .NET
 
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/leonard-tenschert-112535319) or [GitHub](https://github.com/txnschy).
